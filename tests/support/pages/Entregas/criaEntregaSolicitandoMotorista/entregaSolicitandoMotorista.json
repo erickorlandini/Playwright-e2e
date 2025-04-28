@@ -1,0 +1,22 @@
+{
+    "caseDefault": {
+        "pickupDataMotorista": "21",
+        "pickupTimeMotorista": ":00 AM - 02:00 AM",
+        "vehicleTypeMotorista": "Minivan (Up to 100 cu ft /",
+        "recomendToolsAbilities": {
+            "abilities": [
+                {
+                    "toolsAbilities": "Hand truck"
+                },
+                {
+                    "toolsAbilities": "Pallet jack"
+                },
+                {
+                    "toolsAbilities": "Heavy lifting experience"
+                }
+            ]
+        },
+        "descriptionJob": "",
+        "cargoValue": "25"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "caseDefault": {
+        "locationName": "SteakHouse SP",
+        "pickupAddress": "São Paulo",
+        "pickupInstructions": "Entregar com as devidas instruções apos o recebimento do código de confimação, deixar nos fundos.",
+        "pickupDate": "20",
+        "pickupTime": ":45 AM - 11:00 AM",
+        "vehicleType": "SUV (Up to 25 cu ft / 400 lbs",
+        "locationNameDrop": "Praça central",
+        "email": "teste@gmail.com",
+        "phone": "11978462489",
+        "additionalBusinessName": "Cleiton's Burguer",
+        "orderSource": "Shopify",
+        "idOrderSource": "98716233",
+        "declareCargoValue": "54"
+    }
+}
